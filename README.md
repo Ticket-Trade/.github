@@ -1,2 +1,9 @@
-# github
-Informações sobre o projeto Ticket Trade
+<div align="center">
+  
+![Logotipo da Ticket Trade](https://github.com/Ticket-Trade/github/blob/main/logo.png)
+
+</div>
+
+- - -
+# Localize Jahu
+Aplicação Web 
